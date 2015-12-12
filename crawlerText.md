@@ -22,7 +22,7 @@ node爬虫
 
 参考文档
 
-[http://www.cnblogs.com/guogangj/p/3235703.html]()
+[http://www.cnblogs.com/guogangj/p/3235703.html](chrome插件制作)
 
 [https://developer.chrome.com/extensions/getstarted.html]()*（需要翻墙）*
 
