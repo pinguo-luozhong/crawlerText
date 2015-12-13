@@ -24,9 +24,7 @@ node爬虫
 
 [node-webkit工程搭建](http://blog.csdn.net/glt3953/article/details/12510923)
 
-[node-webkit学习(2)基本结构和配置](http://www.cnblogs.com/xuanhun/p/3656003.html)
-
-[node-webkit学习（1）hello world](http://www.cnblogs.com/xuanhun/p/3653816.html)
+[玄魂的博客（node-webkit学习）](http://www.cnblogs.com/xuanhun/tag/node-webkit/)
 
 [github源文档](https://github.com/nwjs/nw.js)
 
